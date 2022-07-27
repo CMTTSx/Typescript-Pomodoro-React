@@ -15,3 +15,4 @@ Projeto de Técnica Pomodoro feita com React e Typescript
 3- React
 4- Typescript
 
+![POMODORO-TYPESCRIPT-REACT](https://user-images.githubusercontent.com/85304089/181386518-f5c1db7f-9aa3-459a-b8a2-e0c1acaa5d1b.png)
